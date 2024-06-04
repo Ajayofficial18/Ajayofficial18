@@ -1,7 +1,7 @@
-
+[![MasterHead](https://camo.githubusercontent.com/85d8088f419078b5efe45c2ddfe32827519e04e0d1a014c577279f95fbba525a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30322f30312f31652f30323031316563383535343237376238633730626632326662313932313233632e676966)]
 <h1 align="center">Hi 👋, I'm Ajay Gour</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/85d8088f419078b5efe45c2ddfe32827519e04e0d1a014c577279f95fbba525a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30322f30312f31652f30323031316563383535343237376238633730626632326662313932313233632e676966">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*IO0G2ygwIml_NGAv26Na4w.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayofficial18&label=Profile%20views&color=0e75b6&style=flat" alt="ajayofficial18" /> </p>
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ajgour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ajgour" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ajgour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ajgour" height="30" width="40" /></a>
 <a href="https://instagram.com/ajay_gour14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajay_gour14" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ajgour18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajgour18" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ajgour18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajgour18" height="30" width="40" /></a>
