@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **React.js, Node.js**
 
-- 💬 Ask me about **Java, C++, C, JavaScript**
+- 💬 Ask me about **Java, Spring Boot, C++, C, JavaScript**
 
-- 📫 How to reach me **ajgour18@gmail.com || ajgour14@gmail.com**
+- 📫 How to reach me **ajgour18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
