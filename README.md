@@ -10,9 +10,9 @@
 
 
 
-- 🌱 I’m currently learning **React.js, Node.js**
+- 🌱 I’m currently learning **Flutter, Dart**
 
-- 💬 Ask me about **Java, Spring Boot, C++, C, JavaScript**
+- 💬 Ask me about **Java, Spring Boot, C++, C, React.js, Node.js, JavaScript**
 
 - 📫 How to reach me **ajgour18@gmail.com**
 
