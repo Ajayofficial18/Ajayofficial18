@@ -1,7 +1,7 @@
 ![MasterHead](./marioGIF.gif)
 <h1 align="center">Hi 👋, I'm Ajay Gour</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<h3 style="text-align: left;">Dedicated Backend Developer with a strong foundation in Java and Spring Boot, complemented by practical experience in full-stack projects with React and Node.js. Proficient in RESTful API development, RDBMS, and Spring Security, with recent work on authentication frameworks like JWT. Known for a strong commitment to clean, scalable code, and a consistent track record of overcoming complex challenges through LeetCode practice and personal projects. Passionate about continuous learning and collaboration, with contributions to open-source projects and active engagement in tech communities.</h3>
+<h3 style="text-align: left;">Dedicated Full Stack Developer with a strong foundation in Java and Spring Boot, complemented by practical experience in full-stack projects with React and Node.js. Proficient in RESTful API development, RDBMS, and Spring Security, with recent work on authentication frameworks like JWT. Known for a strong commitment to clean, scalable code, and a consistent track record of overcoming complex challenges through LeetCode practice and personal projects. Passionate about continuous learning and collaboration, with contributions to open-source projects and active engagement in tech communities.</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*IO0G2ygwIml_NGAv26Na4w.gif">
