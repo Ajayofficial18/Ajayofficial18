@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
-- 💬 Ask me about **Java, Spring Boot, C++, C, React.js, Node.js, JavaScript**
+- 💬 Ask me about **Java, Spring and Spring Boot, C++, C, React.js, Node.js, JavaScript**
 
 - 📫 How to reach me **ajgour18@gmail.com**
 
