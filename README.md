@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning **React js, Node js**
+- 🌱 I’m currently learning **React js**
 
 - 💬 Ask me about **Java, Spring and Spring Boot, C++, C, JavaScript**
 
