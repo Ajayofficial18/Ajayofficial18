@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React js**, **Node js**
 
-- 💬 Ask me about **Java, Spring and Spring Boot, C++, C, JavaScript**
+- 💬 Ask me about **Java, Spring and Spring Boot, C++, C, MicroServices, Monolithic Arcthitecture, JavaScript**
 
 - 📫 How to reach me **ajgour18@gmail.com**
 
