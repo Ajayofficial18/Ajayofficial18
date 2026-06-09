@@ -14,6 +14,8 @@
 
 - 💬 Ask me about **Java, Spring and Spring Boot, C++, C, MicroServices, Monolithic Arcthitecture, JavaScript**
 
+- 🌐 Portfolio: **[ajay-portfolio-v2.vercel.app](https://ajay-portfolio-v2.vercel.app/)**
+
 - 📫 How to reach me **ajgour18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
